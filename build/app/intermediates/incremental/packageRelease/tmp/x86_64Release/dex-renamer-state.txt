@@ -1,0 +1,4 @@
+#Wed Aug 18 01:27:08 IST 2021
+base.0=/Users/ed007/Documents/ar_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

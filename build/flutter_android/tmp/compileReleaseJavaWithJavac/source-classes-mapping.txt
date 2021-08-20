@@ -1,0 +1,37 @@
+com/github/drydart/flutter_android/ContextHandler.java
+ com.github.drydart.flutter_android.ContextHandler
+com/github/drydart/flutter_android/ActivityManagerHandler.java
+ com.github.drydart.flutter_android.ActivityManagerHandler
+com/github/drydart/flutter_android/IntentHandler.java
+ com.github.drydart.flutter_android.IntentHandler
+com/github/drydart/flutter_android/SharedPreferencesHandler.java
+ com.github.drydart.flutter_android.SharedPreferencesHandler
+com/github/drydart/flutter_android/FlutterAndroidPlugin.java
+ com.github.drydart.flutter_android.FlutterAndroidPlugin
+com/github/drydart/flutter_android/SensorManagerHandler.java
+ com.github.drydart.flutter_android.SensorManagerHandler
+com/github/drydart/flutter_android/BluetoothHeadsetHandler.java
+ com.github.drydart.flutter_android.BluetoothHeadsetHandler
+com/github/drydart/flutter_android/AndroidHandler.java
+ com.github.drydart.flutter_android.AndroidHandler
+com/github/drydart/flutter_android/BuildConfig.java
+ com.github.drydart.flutter_android.BuildConfig
+com/github/drydart/flutter_android/BluetoothLeScannerHandler.java
+ com.github.drydart.flutter_android.BluetoothLeScannerHandler
+com/github/drydart/flutter_android/BluetoothAdapterHandler.java
+ com.github.drydart.flutter_android.BluetoothAdapterHandler
+com/github/drydart/flutter_android/FlutterMethodCallHandler.java
+ com.github.drydart.flutter_android.FlutterMethodCallHandler
+com/github/drydart/flutter_android/LocationHandler.java
+ com.github.drydart.flutter_android.LocationHandler
+com/github/drydart/flutter_android/EnvironmentHandler.java
+ com.github.drydart.flutter_android.EnvironmentHandler
+com/github/drydart/flutter_android/BluetoothManagerHandler.java
+ com.github.drydart.flutter_android.BluetoothManagerHandler
+com/github/drydart/flutter_android/FaceDetectorHandler.java
+ com.github.drydart.flutter_android.FaceDetectorHandler
+com/github/drydart/flutter_android/BluetoothDeviceHandler.java
+ com.github.drydart.flutter_android.BluetoothDeviceHandler
+com/github/drydart/flutter_android/SensorEventStream.java
+ com.github.drydart.flutter_android.SensorEventStream
+ com.github.drydart.flutter_android.SensorEventStream$1
